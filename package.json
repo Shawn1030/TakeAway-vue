@@ -16,7 +16,7 @@
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.25.3",
     "qs": "^6.9.4",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "vee-validate": "^2.2.9",
     "vue": "^2.6.11",
     "vue-loader": "^15.9.2",
