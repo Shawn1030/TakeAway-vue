@@ -14,7 +14,7 @@
     "core-js": "^3.6.4",
     "mint-ui": "2.2.13",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "qs": "^6.9.4",
     "swiper": "^5.3.8",
     "vee-validate": "^2.2.9",
